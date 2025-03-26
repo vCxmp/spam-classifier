@@ -1,9 +1,5 @@
 /*
- * Veer Desai
- * CSE 123
  * 3/4/25
- * P3: Spam Classifier
- * TA: Isayiah Lim
  */
 import java.io.*;
 import java.util.*;
